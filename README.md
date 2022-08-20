@@ -6,3 +6,11 @@ The purpose of this analysis is to determine if the weather for Oahu, Hawaii is 
 
 ## Results
 Below is the summary statistics for the temperatures in June.
+
+<img width="170" alt="june_stats" src="https://user-images.githubusercontent.com/106712521/185769226-593030d0-5042-4955-ad16-8992cc2e7b0f.png">
+
+
+
+Below is the summary statistics for the temperatures in December.
+
+
