@@ -13,4 +13,6 @@ Below is the summary statistics for the temperatures in June.
 
 Below is the summary statistics for the temperatures in December.
 
+<img width="290" alt="dec_stats" src="https://user-images.githubusercontent.com/106712521/185769296-ec372b70-7d74-47c5-80f6-a04c4cf97335.png">
+
 
