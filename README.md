@@ -15,4 +15,9 @@ Below are the summary statistics for the temperatures in December.
 
 <img width="290" alt="dec_stats" src="https://user-images.githubusercontent.com/106712521/185769296-ec372b70-7d74-47c5-80f6-a04c4cf97335.png">
 
+In the first table we can see the average temperature in June is 75 degrees. The low for the month was 64 degrees and the high was 85 degrees. The June weather in Oahu is  suitable for the surf and ice cream shop. The weather for December was simillar to June with an average temperature of 71 degrees and a high of 83 degrees. However, the low for the month of December was almost 10 degrees cooler than for June. The minimum temperature in December was 56 degrees. 
+
+## Summary
+
+  
 
